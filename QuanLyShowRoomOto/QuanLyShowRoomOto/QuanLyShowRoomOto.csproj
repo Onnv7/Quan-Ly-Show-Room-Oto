@@ -1,0 +1,407 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9C0E1E7A-1634-4E77-A1FF-00A007886094}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>QuanLyShowRoomOto</RootNamespace>
+    <AssemblyName>QuanLyShowRoomOto</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="FontAwesome.Sharp, Version=5.15.4.0, Culture=neutral, PublicKeyToken=d16d1e4e568ec10f, processorArchitecture=MSIL">
+      <HintPath>..\packages\FontAwesome.Sharp.5.15.4\lib\net472\FontAwesome.Sharp.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FOX - Contract - Pay - BaoDuong Management Form\FormAddBaoDuong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FOX - Contract - Pay - BaoDuong Management Form\FormAddBaoDuong.designer.cs">
+      <DependentUpon>FormAddBaoDuong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormBaoDuongFirst.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormBaoDuongFirst.designer.cs">
+      <DependentUpon>FormBaoDuongFirst.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Globals.cs" />
+    <Compile Include="HomeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HomeForm.Designer.cs">
+      <DependentUpon>HomeForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginForm.Designer.cs">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NMĐ - Customer Payment Form\FormCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NMĐ - Customer Payment Form\FormCustomer.Designer.cs">
+      <DependentUpon>FormCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NMĐ - Customer Payment Form\FormUpdateDeleteCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NMĐ - Customer Payment Form\FormUpdateDeleteCustomer.Designer.cs">
+      <DependentUpon>FormUpdateDeleteCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FOX - Contract - Pay - BaoDuong Management Form\Contract.cs" />
+    <Compile Include="FOX - Contract - Pay - BaoDuong Management Form\FormAddCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FOX - Contract - Pay - BaoDuong Management Form\FormAddCustomer.Designer.cs">
+      <DependentUpon>FormAddCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NTP - ImportWarehouse Management\AddOrderForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NTP - ImportWarehouse Management\AddOrderForm.Designer.cs">
+      <DependentUpon>AddOrderForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NTP - ImportWarehouse Management\EditOrderForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NTP - ImportWarehouse Management\EditOrderForm.Designer.cs">
+      <DependentUpon>EditOrderForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NTP - ImportWarehouse Management\AddSingleDetailForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NTP - ImportWarehouse Management\AddSingleDetailForm.Designer.cs">
+      <DependentUpon>AddSingleDetailForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Car.cs" />
+    <Compile Include="NTP - ImportWarehouse Management\EditSingleDetailForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NTP - ImportWarehouse Management\EditSingleDetailForm.Designer.cs">
+      <DependentUpon>EditSingleDetailForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ImportWarehouseForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ImportWarehouseForm.Designer.cs">
+      <DependentUpon>ImportWarehouseForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NVA - Financial Management Form\CarSoldForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NVA - Financial Management Form\CarSoldForm.Designer.cs">
+      <DependentUpon>CarSoldForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Employee.cs" />
+    <Compile Include="NVA - Employee Management Form\EmployeeLeaveForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NVA - Employee Management Form\EmployeeLeaveForm.Designer.cs">
+      <DependentUpon>EmployeeLeaveForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FOX - Contract - Pay - BaoDuong Management Form\FormAddConTract.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FOX - Contract - Pay - BaoDuong Management Form\FormAddConTract.Designer.cs">
+      <DependentUpon>FormAddConTract.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormContract.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormContract.Designer.cs">
+      <DependentUpon>FormContract.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FOX - Contract - Pay - BaoDuong Management Form\CusForContract.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FOX - Contract - Pay - BaoDuong Management Form\CusForContract.Designer.cs">
+      <DependentUpon>CusForContract.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MyData.cs" />
+    <Compile Include="NTP - WareHouse Management Form\AddCarForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NTP - WareHouse Management Form\AddCarForm.Designer.cs">
+      <DependentUpon>AddCarForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NTP - WareHouse Management Form\EditCarForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NTP - WareHouse Management Form\EditCarForm.Designer.cs">
+      <DependentUpon>EditCarForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NVA - Employee Management Form\AddStaffForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NVA - Employee Management Form\AddStaffForm.Designer.cs">
+      <DependentUpon>AddStaffForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ButtonDesign.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="NVA - Employee Management Form\EditInforEmpForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NVA - Employee Management Form\EditInforEmpForm.Designer.cs">
+      <DependentUpon>EditInforEmpForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NVA - Financial Management Form\IncomeManagementForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NVA - Financial Management Form\IncomeManagementForm.Designer.cs">
+      <DependentUpon>IncomeManagementForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NVA - Employee Management Form\PositionListForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NVA - Employee Management Form\PositionListForm.Designer.cs">
+      <DependentUpon>PositionListForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Order.cs" />
+    <Compile Include="NMĐ - Customer Payment Form\PaymentForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NMĐ - Customer Payment Form\PaymentForm.Designer.cs">
+      <DependentUpon>PaymentForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Position.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Controls\RadioButtonDesign.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Forms\RevenueForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\RevenueForm.Designer.cs">
+      <DependentUpon>RevenueForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\StaffForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\StaffForm.Designer.cs">
+      <DependentUpon>StaffForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\TextBoxDesign.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\TextBoxDesign.Designer.cs">
+      <DependentUpon>TextBoxDesign.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NVA - Financial Management Form\SpendingManagementForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NVA - Financial Management Form\SpendingManagementForm.Designer.cs">
+      <DependentUpon>SpendingManagementForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NVA - Employee Management Form\StaffRankingsByQuantityForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NVA - Employee Management Form\StaffRankingsByQuantityForm.Designer.cs">
+      <DependentUpon>StaffRankingsByQuantityForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\WarehouseForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\WarehouseForm.Designer.cs">
+      <DependentUpon>WarehouseForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NTP - ImportWarehouse Management\SingleDetailForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NTP - ImportWarehouse Management\SingleDetailForm.Designer.cs">
+      <DependentUpon>SingleDetailForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RegisterForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegisterForm.Designer.cs">
+      <DependentUpon>RegisterForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ResetPasswordForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ResetPasswordForm.Designer.cs">
+      <DependentUpon>ResetPasswordForm.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="FOX - Contract - Pay - BaoDuong Management Form\FormAddBaoDuong.resx">
+      <DependentUpon>FormAddBaoDuong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormBaoDuongFirst.resx">
+      <DependentUpon>FormBaoDuongFirst.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FOX - Contract - Pay - BaoDuong Management Form\FormAddCustomer.resx">
+      <DependentUpon>FormAddCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HomeForm.resx">
+      <DependentUpon>HomeForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginForm.resx">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NMĐ - Customer Payment Form\FormCustomer.resx">
+      <DependentUpon>FormCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NMĐ - Customer Payment Form\FormUpdateDeleteCustomer.resx">
+      <DependentUpon>FormUpdateDeleteCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NMĐ - Customer Payment Form\PaymentForm.resx">
+      <DependentUpon>PaymentForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NTP - ImportWarehouse Management\AddOrderForm.resx">
+      <DependentUpon>AddOrderForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NTP - ImportWarehouse Management\EditOrderForm.resx">
+      <DependentUpon>EditOrderForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NTP - ImportWarehouse Management\AddSingleDetailForm.resx">
+      <DependentUpon>AddSingleDetailForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NTP - ImportWarehouse Management\EditSingleDetailForm.resx">
+      <DependentUpon>EditSingleDetailForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ImportWarehouseForm.resx">
+      <DependentUpon>ImportWarehouseForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NVA - Financial Management Form\CarSoldForm.resx">
+      <DependentUpon>CarSoldForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NVA - Employee Management Form\EmployeeLeaveForm.resx">
+      <DependentUpon>EmployeeLeaveForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FOX - Contract - Pay - BaoDuong Management Form\FormAddConTract.resx">
+      <DependentUpon>FormAddConTract.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormContract.resx">
+      <DependentUpon>FormContract.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FOX - Contract - Pay - BaoDuong Management Form\CusForContract.resx">
+      <DependentUpon>CusForContract.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NTP - WareHouse Management Form\AddCarForm.resx">
+      <DependentUpon>AddCarForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NTP - WareHouse Management Form\EditCarForm.resx">
+      <DependentUpon>EditCarForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NVA - Employee Management Form\AddStaffForm.resx">
+      <DependentUpon>AddStaffForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NVA - Employee Management Form\EditInforEmpForm.resx">
+      <DependentUpon>EditInforEmpForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\RevenueForm.resx">
+      <DependentUpon>RevenueForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\StaffForm.resx">
+      <DependentUpon>StaffForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NVA - Financial Management Form\IncomeManagementForm.resx">
+      <DependentUpon>IncomeManagementForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NVA - Employee Management Form\PositionListForm.resx">
+      <DependentUpon>PositionListForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Controls\TextBoxDesign.resx">
+      <DependentUpon>TextBoxDesign.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NVA - Financial Management Form\SpendingManagementForm.resx">
+      <DependentUpon>SpendingManagementForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NVA - Employee Management Form\StaffRankingsByQuantityForm.resx">
+      <DependentUpon>StaffRankingsByQuantityForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\WarehouseForm.resx">
+      <DependentUpon>WarehouseForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NTP - ImportWarehouse Management\SingleDetailForm.resx">
+      <DependentUpon>SingleDetailForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegisterForm.resx">
+      <DependentUpon>RegisterForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ResetPasswordForm.resx">
+      <DependentUpon>ResetPasswordForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Images\logo.jpg" />
+    <Content Include="Images\Nhom3.PNG" />
+    <Content Include="Images\vinCar.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

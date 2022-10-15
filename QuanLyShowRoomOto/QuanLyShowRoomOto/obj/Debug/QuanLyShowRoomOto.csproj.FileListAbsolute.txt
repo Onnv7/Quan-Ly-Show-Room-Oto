@@ -1,0 +1,928 @@
+E:\spkt\HK4\Lập trình trên windows\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\bin\Debug\QuanLyShowRoomOto.exe.config
+E:\spkt\HK4\Lập trình trên windows\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\bin\Debug\QuanLyShowRoomOto.exe
+E:\spkt\HK4\Lập trình trên windows\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\bin\Debug\QuanLyShowRoomOto.pdb
+E:\spkt\HK4\Lập trình trên windows\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\bin\Debug\FontAwesome.Sharp.dll
+E:\spkt\HK4\Lập trình trên windows\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.csproj.AssemblyReference.cache
+E:\spkt\HK4\Lập trình trên windows\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.MainForm.resources
+E:\spkt\HK4\Lập trình trên windows\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.Properties.Resources.resources
+E:\spkt\HK4\Lập trình trên windows\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.csproj.GenerateResource.cache
+E:\spkt\HK4\Lập trình trên windows\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.csproj.CoreCompileInputs.cache
+E:\spkt\HK4\Lập trình trên windows\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.csproj.CopyComplete
+E:\spkt\HK4\Lập trình trên windows\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.exe
+E:\spkt\HK4\Lập trình trên windows\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.pdb
+E:\spkt\HK4\Lập trình trên windows\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.TextBoxDesign.resources
+E:\spkt\HK4\Lập trình trên windows\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.StaffForm.resources
+C:\Users\fpt\Desktop\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\bin\Debug\QuanLyShowRoomOto.exe.config
+C:\Users\fpt\Desktop\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\bin\Debug\QuanLyShowRoomOto.exe
+C:\Users\fpt\Desktop\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\bin\Debug\QuanLyShowRoomOto.pdb
+C:\Users\fpt\Desktop\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\fpt\Desktop\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.csproj.AssemblyReference.cache
+C:\Users\fpt\Desktop\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.AddPositionForm.resources
+C:\Users\fpt\Desktop\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.AddStaffForm.resources
+C:\Users\fpt\Desktop\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EditInforEmpForm.resources
+C:\Users\fpt\Desktop\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EditPositionForm.resources
+C:\Users\fpt\Desktop\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.RevenueForm.resources
+C:\Users\fpt\Desktop\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.StaffForm.resources
+C:\Users\fpt\Desktop\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.IncomeManagementForm.resources
+C:\Users\fpt\Desktop\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.MainForm.resources
+C:\Users\fpt\Desktop\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.PositionListForm.resources
+C:\Users\fpt\Desktop\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.Properties.Resources.resources
+C:\Users\fpt\Desktop\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.TextBoxDesign.resources
+C:\Users\fpt\Desktop\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.SpendingManagementForm.resources
+C:\Users\fpt\Desktop\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.StaffRankingsByQuantityForm.resources
+C:\Users\fpt\Desktop\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.csproj.GenerateResource.cache
+C:\Users\fpt\Desktop\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.csproj.CoreCompileInputs.cache
+C:\Users\fpt\Desktop\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.csproj.CopyComplete
+C:\Users\fpt\Desktop\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.exe
+C:\Users\fpt\Desktop\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.pdb
+C:\Users\fpt\Desktop\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.Forms.WarehouseForm.resources
+C:\Users\fpt\Desktop\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.NTP___Warehouse_Management_Form.AddCarForm.resources
+C:\Users\fpt\Desktop\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.NVA___Employee_Management_Form.EditCarForm.resources
+C:\Users\fpt\Desktop\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.WarehouseForm.resources
+D:\DUc\Database_Management_System\Project\Test CK\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\bin\Debug\QuanLyShowRoomOto.exe.config
+D:\DUc\Database_Management_System\Project\Test CK\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\bin\Debug\QuanLyShowRoomOto.exe
+D:\DUc\Database_Management_System\Project\Test CK\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\bin\Debug\QuanLyShowRoomOto.pdb
+D:\DUc\Database_Management_System\Project\Test CK\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\bin\Debug\FontAwesome.Sharp.dll
+D:\DUc\Database_Management_System\Project\Test CK\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.csproj.AssemblyReference.cache
+D:\DUc\Database_Management_System\Project\Test CK\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.AddBaoDuongForm.resources
+D:\DUc\Database_Management_System\Project\Test CK\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.AddConTract.resources
+D:\DUc\Database_Management_System\Project\Test CK\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.AddPayContract.resources
+D:\DUc\Database_Management_System\Project\Test CK\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.BaoDuongForm.resources
+D:\DUc\Database_Management_System\Project\Test CK\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.ContractForm.resources
+D:\DUc\Database_Management_System\Project\Test CK\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.CusForContract.resources
+D:\DUc\Database_Management_System\Project\Test CK\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EditContractForm.resources
+D:\DUc\Database_Management_System\Project\Test CK\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.AddCarForm.resources
+D:\DUc\Database_Management_System\Project\Test CK\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EditCarForm.resources
+D:\DUc\Database_Management_System\Project\Test CK\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.AddPositionForm.resources
+D:\DUc\Database_Management_System\Project\Test CK\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.AddStaffForm.resources
+D:\DUc\Database_Management_System\Project\Test CK\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EditInforEmpForm.resources
+D:\DUc\Database_Management_System\Project\Test CK\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EditPositionForm.resources
+D:\DUc\Database_Management_System\Project\Test CK\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.RevenueForm.resources
+D:\DUc\Database_Management_System\Project\Test CK\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.StaffForm.resources
+D:\DUc\Database_Management_System\Project\Test CK\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.IncomeManagementForm.resources
+D:\DUc\Database_Management_System\Project\Test CK\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.MainForm.resources
+D:\DUc\Database_Management_System\Project\Test CK\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.PositionListForm.resources
+D:\DUc\Database_Management_System\Project\Test CK\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.Properties.Resources.resources
+D:\DUc\Database_Management_System\Project\Test CK\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.TextBoxDesign.resources
+D:\DUc\Database_Management_System\Project\Test CK\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.SpendingManagementForm.resources
+D:\DUc\Database_Management_System\Project\Test CK\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.StaffRankingsByQuantityForm.resources
+D:\DUc\Database_Management_System\Project\Test CK\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.WarehouseForm.resources
+D:\DUc\Database_Management_System\Project\Test CK\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.csproj.GenerateResource.cache
+D:\DUc\Database_Management_System\Project\Test CK\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.csproj.CoreCompileInputs.cache
+D:\DUc\Database_Management_System\Project\Test CK\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.csproj.CopyComplete
+D:\DUc\Database_Management_System\Project\Test CK\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.exe
+D:\DUc\Database_Management_System\Project\Test CK\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.pdb
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\Gom code\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\bin\Debug\QuanLyShowRoomOto.exe.config
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\Gom code\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\bin\Debug\QuanLyShowRoomOto.exe
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\Gom code\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\bin\Debug\QuanLyShowRoomOto.pdb
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\Gom code\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\bin\Debug\FontAwesome.Sharp.dll
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\Gom code\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.csproj.AssemblyReference.cache
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\Gom code\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EmployeeLeaveForm.resources
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\Gom code\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.AddBaoDuongForm.resources
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\Gom code\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.AddConTract.resources
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\Gom code\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.AddPayContract.resources
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\Gom code\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.BaoDuongForm.resources
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\Gom code\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.ContractForm.resources
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\Gom code\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.CusForContract.resources
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\Gom code\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EditContractForm.resources
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\Gom code\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.NMĐ___Customer_Manage_Form.FormCustomer.resources
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\Gom code\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.NMĐ___Customer_Manage_Form.PaymentForm.resources
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\Gom code\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.AddCarForm.resources
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\Gom code\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EditCarForm.resources
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\Gom code\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.AddPositionForm.resources
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\Gom code\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.AddStaffForm.resources
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\Gom code\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EditInforEmpForm.resources
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\Gom code\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EditPositionForm.resources
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\Gom code\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.RevenueForm.resources
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\Gom code\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.StaffForm.resources
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\Gom code\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.IncomeManagementForm.resources
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\Gom code\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.MainForm.resources
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\Gom code\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.PositionListForm.resources
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\Gom code\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.Properties.Resources.resources
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\Gom code\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.TextBoxDesign.resources
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\Gom code\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.SpendingManagementForm.resources
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\Gom code\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.StaffRankingsByQuantityForm.resources
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\Gom code\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.WarehouseForm.resources
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\Gom code\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.csproj.GenerateResource.cache
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\Gom code\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.csproj.CoreCompileInputs.cache
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\Gom code\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.csproj.CopyComplete
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\Gom code\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.exe
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\Gom code\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.pdb
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\Gom code\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.CarSoldForm.resources
+C:\Users\fpt\Desktop\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\bin\Debug\QuanLyShowRoomOto.exe.config
+C:\Users\fpt\Desktop\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\bin\Debug\QuanLyShowRoomOto.exe
+C:\Users\fpt\Desktop\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\bin\Debug\QuanLyShowRoomOto.pdb
+C:\Users\fpt\Desktop\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\fpt\Desktop\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.csproj.AssemblyReference.cache
+C:\Users\fpt\Desktop\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.CarSoldForm.resources
+C:\Users\fpt\Desktop\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EmployeeLeaveForm.resources
+C:\Users\fpt\Desktop\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.AddBaoDuongForm.resources
+C:\Users\fpt\Desktop\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.AddConTract.resources
+C:\Users\fpt\Desktop\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.AddPayContract.resources
+C:\Users\fpt\Desktop\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.BaoDuongForm.resources
+C:\Users\fpt\Desktop\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.ContractForm.resources
+C:\Users\fpt\Desktop\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.CusForContract.resources
+C:\Users\fpt\Desktop\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EditContractForm.resources
+C:\Users\fpt\Desktop\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.NMĐ___Customer_Manage_Form.FormCustomer.resources
+C:\Users\fpt\Desktop\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.NMĐ___Customer_Manage_Form.PaymentForm.resources
+C:\Users\fpt\Desktop\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.AddCarForm.resources
+C:\Users\fpt\Desktop\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EditCarForm.resources
+C:\Users\fpt\Desktop\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.AddPositionForm.resources
+C:\Users\fpt\Desktop\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.AddStaffForm.resources
+C:\Users\fpt\Desktop\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EditInforEmpForm.resources
+C:\Users\fpt\Desktop\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EditPositionForm.resources
+C:\Users\fpt\Desktop\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.RevenueForm.resources
+C:\Users\fpt\Desktop\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.StaffForm.resources
+C:\Users\fpt\Desktop\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.IncomeManagementForm.resources
+C:\Users\fpt\Desktop\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.MainForm.resources
+C:\Users\fpt\Desktop\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.PositionListForm.resources
+C:\Users\fpt\Desktop\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.Properties.Resources.resources
+C:\Users\fpt\Desktop\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.TextBoxDesign.resources
+C:\Users\fpt\Desktop\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.SpendingManagementForm.resources
+C:\Users\fpt\Desktop\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.StaffRankingsByQuantityForm.resources
+C:\Users\fpt\Desktop\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.WarehouseForm.resources
+C:\Users\fpt\Desktop\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.csproj.GenerateResource.cache
+C:\Users\fpt\Desktop\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.csproj.CoreCompileInputs.cache
+C:\Users\fpt\Desktop\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.csproj.CopyComplete
+C:\Users\fpt\Desktop\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.exe
+C:\Users\fpt\Desktop\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.pdb
+C:\Users\fpt\Desktop\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.ImportWarehouseForm.resources
+C:\Users\fpt\Desktop\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.AddOrderForm.resources
+C:\Users\fpt\Desktop\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EditOrderForm.resources
+C:\Users\fpt\Desktop\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.AddSingleDetailForm.resources
+C:\Users\fpt\Desktop\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EditSingleDetailForm.resources
+C:\Users\fpt\Desktop\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.SingleDetailForm.resources
+D:\DUc\Winform\Day 11 HR Forms\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\bin\Debug\QuanLyShowRoomOto.exe.config
+D:\DUc\Winform\Day 11 HR Forms\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\bin\Debug\QuanLyShowRoomOto.exe
+D:\DUc\Winform\Day 11 HR Forms\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\bin\Debug\QuanLyShowRoomOto.pdb
+D:\DUc\Winform\Day 11 HR Forms\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\bin\Debug\FontAwesome.Sharp.dll
+D:\DUc\Winform\Day 11 HR Forms\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.csproj.AssemblyReference.cache
+D:\DUc\Winform\Day 11 HR Forms\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.AddOrderForm.resources
+D:\DUc\Winform\Day 11 HR Forms\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EditOrderForm.resources
+D:\DUc\Winform\Day 11 HR Forms\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.AddSingleDetailForm.resources
+D:\DUc\Winform\Day 11 HR Forms\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EditSingleDetailForm.resources
+D:\DUc\Winform\Day 11 HR Forms\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.ImportWarehouseForm.resources
+D:\DUc\Winform\Day 11 HR Forms\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.CarSoldForm.resources
+D:\DUc\Winform\Day 11 HR Forms\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EmployeeLeaveForm.resources
+D:\DUc\Winform\Day 11 HR Forms\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.AddBaoDuongForm.resources
+D:\DUc\Winform\Day 11 HR Forms\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.AddConTract.resources
+D:\DUc\Winform\Day 11 HR Forms\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.AddPayContract.resources
+D:\DUc\Winform\Day 11 HR Forms\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.BaoDuongForm.resources
+D:\DUc\Winform\Day 11 HR Forms\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.ContractForm.resources
+D:\DUc\Winform\Day 11 HR Forms\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.CusForContract.resources
+D:\DUc\Winform\Day 11 HR Forms\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EditContractForm.resources
+D:\DUc\Winform\Day 11 HR Forms\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.NMĐ___Customer_Manage_Form.FormCustomer.resources
+D:\DUc\Winform\Day 11 HR Forms\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.NMĐ___Customer_Manage_Form.PaymentForm.resources
+D:\DUc\Winform\Day 11 HR Forms\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.AddCarForm.resources
+D:\DUc\Winform\Day 11 HR Forms\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EditCarForm.resources
+D:\DUc\Winform\Day 11 HR Forms\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.AddPositionForm.resources
+D:\DUc\Winform\Day 11 HR Forms\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.AddStaffForm.resources
+D:\DUc\Winform\Day 11 HR Forms\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EditInforEmpForm.resources
+D:\DUc\Winform\Day 11 HR Forms\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EditPositionForm.resources
+D:\DUc\Winform\Day 11 HR Forms\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.RevenueForm.resources
+D:\DUc\Winform\Day 11 HR Forms\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.StaffForm.resources
+D:\DUc\Winform\Day 11 HR Forms\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.IncomeManagementForm.resources
+D:\DUc\Winform\Day 11 HR Forms\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.MainForm.resources
+D:\DUc\Winform\Day 11 HR Forms\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.PositionListForm.resources
+D:\DUc\Winform\Day 11 HR Forms\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.Properties.Resources.resources
+D:\DUc\Winform\Day 11 HR Forms\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.TextBoxDesign.resources
+D:\DUc\Winform\Day 11 HR Forms\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.SpendingManagementForm.resources
+D:\DUc\Winform\Day 11 HR Forms\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.StaffRankingsByQuantityForm.resources
+D:\DUc\Winform\Day 11 HR Forms\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.WarehouseForm.resources
+D:\DUc\Winform\Day 11 HR Forms\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.SingleDetailForm.resources
+D:\DUc\Winform\Day 11 HR Forms\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.csproj.GenerateResource.cache
+D:\DUc\Winform\Day 11 HR Forms\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.csproj.CoreCompileInputs.cache
+D:\DUc\Winform\Day 11 HR Forms\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.csproj.CopyComplete
+D:\DUc\Winform\Day 11 HR Forms\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.exe
+D:\DUc\Winform\Day 11 HR Forms\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.pdb
+D:\DUc\Winform\Day 11 HR Forms\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.NMĐ___Customer_Manage_Form.FormUpdateDeleteCustomer.resources
+G:\Quan Tri co so du lieu\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.csproj.AssemblyReference.cache
+G:\Quan Tri co so du lieu\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.FormAddCustomer.resources
+G:\Quan Tri co so du lieu\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.NMĐ___Customer_Manage_Form.FormUpdateDeleteCustomer.resources
+G:\Quan Tri co so du lieu\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.AddOrderForm.resources
+G:\Quan Tri co so du lieu\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EditOrderForm.resources
+G:\Quan Tri co so du lieu\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.AddSingleDetailForm.resources
+G:\Quan Tri co so du lieu\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EditSingleDetailForm.resources
+G:\Quan Tri co so du lieu\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.ImportWarehouseForm.resources
+G:\Quan Tri co so du lieu\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.CarSoldForm.resources
+G:\Quan Tri co so du lieu\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EmployeeLeaveForm.resources
+G:\Quan Tri co so du lieu\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.FormAddConTract.resources
+G:\Quan Tri co so du lieu\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.FormAddPayContract.resources
+G:\Quan Tri co so du lieu\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.FormBaoDuong.resources
+G:\Quan Tri co so du lieu\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.CusForContract.resources
+G:\Quan Tri co so du lieu\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.NMĐ___Customer_Manage_Form.FormCustomer.resources
+G:\Quan Tri co so du lieu\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.NMĐ___Customer_Manage_Form.PaymentForm.resources
+G:\Quan Tri co so du lieu\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.AddCarForm.resources
+G:\Quan Tri co so du lieu\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EditCarForm.resources
+G:\Quan Tri co so du lieu\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.AddPositionForm.resources
+G:\Quan Tri co so du lieu\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.AddStaffForm.resources
+G:\Quan Tri co so du lieu\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EditInforEmpForm.resources
+G:\Quan Tri co so du lieu\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EditPositionForm.resources
+G:\Quan Tri co so du lieu\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.RevenueForm.resources
+G:\Quan Tri co so du lieu\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.StaffForm.resources
+G:\Quan Tri co so du lieu\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.IncomeManagementForm.resources
+G:\Quan Tri co so du lieu\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.MainForm.resources
+G:\Quan Tri co so du lieu\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.PositionListForm.resources
+G:\Quan Tri co so du lieu\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.Properties.Resources.resources
+G:\Quan Tri co so du lieu\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.TextBoxDesign.resources
+G:\Quan Tri co so du lieu\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.SpendingManagementForm.resources
+G:\Quan Tri co so du lieu\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.StaffRankingsByQuantityForm.resources
+G:\Quan Tri co so du lieu\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.WarehouseForm.resources
+G:\Quan Tri co so du lieu\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.SingleDetailForm.resources
+G:\Quan Tri co so du lieu\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.csproj.GenerateResource.cache
+G:\Quan Tri co so du lieu\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.csproj.CoreCompileInputs.cache
+G:\Quan Tri co so du lieu\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.exe
+G:\Quan Tri co so du lieu\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.pdb
+G:\Quan Tri co so du lieu\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.FormAddBaoDuong.resources
+G:\Quan Tri co so du lieu\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.FormContract.resources
+G:\Quan Tri co so du lieu\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.FormEditConTract.resources
+G:\Quan Tri co so du lieu\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\bin\Debug\QuanLyShowRoomOto.exe.config
+G:\Quan Tri co so du lieu\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\bin\Debug\QuanLyShowRoomOto.exe
+G:\Quan Tri co so du lieu\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\bin\Debug\QuanLyShowRoomOto.pdb
+G:\Quan Tri co so du lieu\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\bin\Debug\FontAwesome.Sharp.dll
+G:\Quan Tri co so du lieu\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.csproj.CopyComplete
+C:\Users\thanh\Desktop\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.csproj.AssemblyReference.cache
+C:\Users\thanh\Desktop\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.FormAddCustomer.resources
+C:\Users\thanh\Desktop\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.AddOrderForm.resources
+C:\Users\thanh\Desktop\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EditOrderForm.resources
+C:\Users\thanh\Desktop\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.AddSingleDetailForm.resources
+C:\Users\thanh\Desktop\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EditSingleDetailForm.resources
+C:\Users\thanh\Desktop\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.ImportWarehouseForm.resources
+C:\Users\thanh\Desktop\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.CarSoldForm.resources
+C:\Users\thanh\Desktop\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EmployeeLeaveForm.resources
+C:\Users\thanh\Desktop\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.FormAddBaoDuong.resources
+C:\Users\thanh\Desktop\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.FormAddConTract.resources
+C:\Users\thanh\Desktop\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.FormAddPayContract.resources
+C:\Users\thanh\Desktop\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.FormBaoDuong.resources
+C:\Users\thanh\Desktop\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.FormContract.resources
+C:\Users\thanh\Desktop\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.CusForContract.resources
+C:\Users\thanh\Desktop\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.FormEditConTract.resources
+C:\Users\thanh\Desktop\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.AddCarForm.resources
+C:\Users\thanh\Desktop\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EditCarForm.resources
+C:\Users\thanh\Desktop\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.AddPositionForm.resources
+C:\Users\thanh\Desktop\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.AddStaffForm.resources
+C:\Users\thanh\Desktop\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EditInforEmpForm.resources
+C:\Users\thanh\Desktop\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EditPositionForm.resources
+C:\Users\thanh\Desktop\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.RevenueForm.resources
+C:\Users\thanh\Desktop\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.StaffForm.resources
+C:\Users\thanh\Desktop\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.IncomeManagementForm.resources
+C:\Users\thanh\Desktop\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.MainForm.resources
+C:\Users\thanh\Desktop\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.PositionListForm.resources
+C:\Users\thanh\Desktop\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.Properties.Resources.resources
+C:\Users\thanh\Desktop\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.TextBoxDesign.resources
+C:\Users\thanh\Desktop\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.SpendingManagementForm.resources
+C:\Users\thanh\Desktop\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.StaffRankingsByQuantityForm.resources
+C:\Users\thanh\Desktop\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.WarehouseForm.resources
+C:\Users\thanh\Desktop\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.SingleDetailForm.resources
+C:\Users\thanh\Desktop\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.csproj.GenerateResource.cache
+C:\Users\thanh\Desktop\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.csproj.CoreCompileInputs.cache
+C:\Users\thanh\Desktop\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.exe
+C:\Users\thanh\Desktop\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.pdb
+C:\Users\thanh\Desktop\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\bin\Debug\QuanLyShowRoomOto.exe.config
+C:\Users\thanh\Desktop\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\bin\Debug\QuanLyShowRoomOto.exe
+C:\Users\thanh\Desktop\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\bin\Debug\QuanLyShowRoomOto.pdb
+C:\Users\thanh\Desktop\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\thanh\Desktop\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\CSDL - giao diện\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.csproj.CopyComplete
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\bin\Debug\QuanLyShowRoomOto.exe.config
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\bin\Debug\QuanLyShowRoomOto.exe
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\bin\Debug\QuanLyShowRoomOto.pdb
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\bin\Debug\FontAwesome.Sharp.dll
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.csproj.AssemblyReference.cache
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.FormAddCustomer.resources
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.AddOrderForm.resources
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EditOrderForm.resources
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.AddSingleDetailForm.resources
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EditSingleDetailForm.resources
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.ImportWarehouseForm.resources
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.CarSoldForm.resources
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EmployeeLeaveForm.resources
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.FormAddBaoDuong.resources
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.FormAddConTract.resources
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.FormAddPayContract.resources
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.FormContract.resources
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.CusForContract.resources
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.AddCarForm.resources
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EditCarForm.resources
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.AddPositionForm.resources
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.AddStaffForm.resources
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EditInforEmpForm.resources
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EditPositionForm.resources
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.RevenueForm.resources
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.StaffForm.resources
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.IncomeManagementForm.resources
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.MainForm.resources
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.PositionListForm.resources
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.Properties.Resources.resources
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.TextBoxDesign.resources
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.SpendingManagementForm.resources
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.StaffRankingsByQuantityForm.resources
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.WarehouseForm.resources
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.SingleDetailForm.resources
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.csproj.GenerateResource.cache
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.csproj.CoreCompileInputs.cache
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.csproj.CopyComplete
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.exe
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.pdb
+G:\Quan Tri co so du lieu\QuanLyShowRoomOto\QuanLyShowRoomOto\QuanLyShowRoomOto\bin\Debug\QuanLyShowRoomOto.exe.config
+G:\Quan Tri co so du lieu\QuanLyShowRoomOto\QuanLyShowRoomOto\QuanLyShowRoomOto\bin\Debug\QuanLyShowRoomOto.exe
+G:\Quan Tri co so du lieu\QuanLyShowRoomOto\QuanLyShowRoomOto\QuanLyShowRoomOto\bin\Debug\QuanLyShowRoomOto.pdb
+G:\Quan Tri co so du lieu\QuanLyShowRoomOto\QuanLyShowRoomOto\QuanLyShowRoomOto\bin\Debug\FontAwesome.Sharp.dll
+G:\Quan Tri co so du lieu\QuanLyShowRoomOto\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.csproj.AssemblyReference.cache
+G:\Quan Tri co so du lieu\QuanLyShowRoomOto\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.CustomerForm.resources
+G:\Quan Tri co so du lieu\QuanLyShowRoomOto\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.FormAddCustomer.resources
+G:\Quan Tri co so du lieu\QuanLyShowRoomOto\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.Forms.FormCustomer.resources
+G:\Quan Tri co so du lieu\QuanLyShowRoomOto\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.Forms.FormUpdateDeleteCustomer.resources
+G:\Quan Tri co so du lieu\QuanLyShowRoomOto\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.Forms.PaymentForm.resources
+G:\Quan Tri co so du lieu\QuanLyShowRoomOto\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.AddOrderForm.resources
+G:\Quan Tri co so du lieu\QuanLyShowRoomOto\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EditOrderForm.resources
+G:\Quan Tri co so du lieu\QuanLyShowRoomOto\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.AddSingleDetailForm.resources
+G:\Quan Tri co so du lieu\QuanLyShowRoomOto\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EditSingleDetailForm.resources
+G:\Quan Tri co so du lieu\QuanLyShowRoomOto\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.ImportWarehouseForm.resources
+G:\Quan Tri co so du lieu\QuanLyShowRoomOto\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.CarSoldForm.resources
+G:\Quan Tri co so du lieu\QuanLyShowRoomOto\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EmployeeLeaveForm.resources
+G:\Quan Tri co so du lieu\QuanLyShowRoomOto\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.FormAddBaoDuong.resources
+G:\Quan Tri co so du lieu\QuanLyShowRoomOto\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.FormAddConTract.resources
+G:\Quan Tri co so du lieu\QuanLyShowRoomOto\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.FormAddPayContract.resources
+G:\Quan Tri co so du lieu\QuanLyShowRoomOto\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.FormBaoDuong.resources
+G:\Quan Tri co so du lieu\QuanLyShowRoomOto\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.FormContract.resources
+G:\Quan Tri co so du lieu\QuanLyShowRoomOto\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.CusForContract.resources
+G:\Quan Tri co so du lieu\QuanLyShowRoomOto\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.FormEditConTract.resources
+G:\Quan Tri co so du lieu\QuanLyShowRoomOto\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.AddCarForm.resources
+G:\Quan Tri co so du lieu\QuanLyShowRoomOto\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EditCarForm.resources
+G:\Quan Tri co so du lieu\QuanLyShowRoomOto\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.AddPositionForm.resources
+G:\Quan Tri co so du lieu\QuanLyShowRoomOto\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.AddStaffForm.resources
+G:\Quan Tri co so du lieu\QuanLyShowRoomOto\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EditInforEmpForm.resources
+G:\Quan Tri co so du lieu\QuanLyShowRoomOto\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EditPositionForm.resources
+G:\Quan Tri co so du lieu\QuanLyShowRoomOto\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.RevenueForm.resources
+G:\Quan Tri co so du lieu\QuanLyShowRoomOto\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.StaffForm.resources
+G:\Quan Tri co so du lieu\QuanLyShowRoomOto\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.IncomeManagementForm.resources
+G:\Quan Tri co so du lieu\QuanLyShowRoomOto\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.MainForm.resources
+G:\Quan Tri co so du lieu\QuanLyShowRoomOto\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.PositionListForm.resources
+G:\Quan Tri co so du lieu\QuanLyShowRoomOto\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.Properties.Resources.resources
+G:\Quan Tri co so du lieu\QuanLyShowRoomOto\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.TextBoxDesign.resources
+G:\Quan Tri co so du lieu\QuanLyShowRoomOto\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.SpendingManagementForm.resources
+G:\Quan Tri co so du lieu\QuanLyShowRoomOto\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.StaffRankingsByQuantityForm.resources
+G:\Quan Tri co so du lieu\QuanLyShowRoomOto\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.WarehouseForm.resources
+G:\Quan Tri co so du lieu\QuanLyShowRoomOto\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.SingleDetailForm.resources
+G:\Quan Tri co so du lieu\QuanLyShowRoomOto\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.csproj.GenerateResource.cache
+G:\Quan Tri co so du lieu\QuanLyShowRoomOto\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.csproj.CoreCompileInputs.cache
+G:\Quan Tri co so du lieu\QuanLyShowRoomOto\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.csproj.CopyComplete
+G:\Quan Tri co so du lieu\QuanLyShowRoomOto\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.exe
+G:\Quan Tri co so du lieu\QuanLyShowRoomOto\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.pdb
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.CustomerForm.resources
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.Forms.FormCustomer.resources
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.Forms.FormUpdateDeleteCustomer.resources
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.Forms.PaymentForm.resources
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.HomeForm.resources
+C:\Users\Admin\Downloads\1 Submit (1) (1)\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\1 Submit (1) (1)\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.FormAddBaoDuong.resources
+C:\Users\Admin\Downloads\1 Submit (1) (1)\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.FormBaoDuongFirst.resources
+C:\Users\Admin\Downloads\1 Submit (1) (1)\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.CustomerForm.resources
+C:\Users\Admin\Downloads\1 Submit (1) (1)\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.FormAddCustomer.resources
+C:\Users\Admin\Downloads\1 Submit (1) (1)\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.HomeForm.resources
+C:\Users\Admin\Downloads\1 Submit (1) (1)\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.Forms.FormCustomer.resources
+C:\Users\Admin\Downloads\1 Submit (1) (1)\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.Forms.FormUpdateDeleteCustomer.resources
+C:\Users\Admin\Downloads\1 Submit (1) (1)\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.Forms.PaymentForm.resources
+C:\Users\Admin\Downloads\1 Submit (1) (1)\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.AddOrderForm.resources
+C:\Users\Admin\Downloads\1 Submit (1) (1)\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EditOrderForm.resources
+C:\Users\Admin\Downloads\1 Submit (1) (1)\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.AddSingleDetailForm.resources
+C:\Users\Admin\Downloads\1 Submit (1) (1)\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EditSingleDetailForm.resources
+C:\Users\Admin\Downloads\1 Submit (1) (1)\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.ImportWarehouseForm.resources
+C:\Users\Admin\Downloads\1 Submit (1) (1)\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.CarSoldForm.resources
+C:\Users\Admin\Downloads\1 Submit (1) (1)\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EmployeeLeaveForm.resources
+C:\Users\Admin\Downloads\1 Submit (1) (1)\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.FormAddConTract.resources
+C:\Users\Admin\Downloads\1 Submit (1) (1)\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.FormAddPayContract.resources
+C:\Users\Admin\Downloads\1 Submit (1) (1)\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.FormContract.resources
+C:\Users\Admin\Downloads\1 Submit (1) (1)\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.CusForContract.resources
+C:\Users\Admin\Downloads\1 Submit (1) (1)\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.AddCarForm.resources
+C:\Users\Admin\Downloads\1 Submit (1) (1)\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EditCarForm.resources
+C:\Users\Admin\Downloads\1 Submit (1) (1)\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.AddPositionForm.resources
+C:\Users\Admin\Downloads\1 Submit (1) (1)\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.AddStaffForm.resources
+C:\Users\Admin\Downloads\1 Submit (1) (1)\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EditInforEmpForm.resources
+C:\Users\Admin\Downloads\1 Submit (1) (1)\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EditPositionForm.resources
+C:\Users\Admin\Downloads\1 Submit (1) (1)\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.RevenueForm.resources
+C:\Users\Admin\Downloads\1 Submit (1) (1)\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.StaffForm.resources
+C:\Users\Admin\Downloads\1 Submit (1) (1)\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.IncomeManagementForm.resources
+C:\Users\Admin\Downloads\1 Submit (1) (1)\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.MainForm.resources
+C:\Users\Admin\Downloads\1 Submit (1) (1)\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.PositionListForm.resources
+C:\Users\Admin\Downloads\1 Submit (1) (1)\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.Properties.Resources.resources
+C:\Users\Admin\Downloads\1 Submit (1) (1)\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.TextBoxDesign.resources
+C:\Users\Admin\Downloads\1 Submit (1) (1)\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.SpendingManagementForm.resources
+C:\Users\Admin\Downloads\1 Submit (1) (1)\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.StaffRankingsByQuantityForm.resources
+C:\Users\Admin\Downloads\1 Submit (1) (1)\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.WarehouseForm.resources
+C:\Users\Admin\Downloads\1 Submit (1) (1)\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.SingleDetailForm.resources
+C:\Users\Admin\Downloads\1 Submit (1) (1)\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\1 Submit (1) (1)\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\1 Submit (1) (1)\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.exe
+C:\Users\Admin\Downloads\1 Submit (1) (1)\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.pdb
+D:\DUc\Database_Management_System\1 Submit (1)\QuanLyShowRoomOto\QuanLyShowRoomOto\bin\Debug\QuanLyShowRoomOto.exe.config
+D:\DUc\Database_Management_System\1 Submit (1)\QuanLyShowRoomOto\QuanLyShowRoomOto\bin\Debug\QuanLyShowRoomOto.exe
+D:\DUc\Database_Management_System\1 Submit (1)\QuanLyShowRoomOto\QuanLyShowRoomOto\bin\Debug\QuanLyShowRoomOto.pdb
+D:\DUc\Database_Management_System\1 Submit (1)\QuanLyShowRoomOto\QuanLyShowRoomOto\bin\Debug\FontAwesome.Sharp.dll
+D:\DUc\Database_Management_System\1 Submit (1)\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.csproj.AssemblyReference.cache
+D:\DUc\Database_Management_System\1 Submit (1)\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.FormAddBaoDuong.resources
+D:\DUc\Database_Management_System\1 Submit (1)\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.FormBaoDuongFirst.resources
+D:\DUc\Database_Management_System\1 Submit (1)\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.CustomerForm.resources
+D:\DUc\Database_Management_System\1 Submit (1)\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.FormAddCustomer.resources
+D:\DUc\Database_Management_System\1 Submit (1)\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.HomeForm.resources
+D:\DUc\Database_Management_System\1 Submit (1)\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.Forms.FormCustomer.resources
+D:\DUc\Database_Management_System\1 Submit (1)\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.Forms.FormUpdateDeleteCustomer.resources
+D:\DUc\Database_Management_System\1 Submit (1)\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.Forms.PaymentForm.resources
+D:\DUc\Database_Management_System\1 Submit (1)\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.AddOrderForm.resources
+D:\DUc\Database_Management_System\1 Submit (1)\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EditOrderForm.resources
+D:\DUc\Database_Management_System\1 Submit (1)\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.AddSingleDetailForm.resources
+D:\DUc\Database_Management_System\1 Submit (1)\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EditSingleDetailForm.resources
+D:\DUc\Database_Management_System\1 Submit (1)\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.ImportWarehouseForm.resources
+D:\DUc\Database_Management_System\1 Submit (1)\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.CarSoldForm.resources
+D:\DUc\Database_Management_System\1 Submit (1)\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EmployeeLeaveForm.resources
+D:\DUc\Database_Management_System\1 Submit (1)\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.FormAddConTract.resources
+D:\DUc\Database_Management_System\1 Submit (1)\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.FormAddPayContract.resources
+D:\DUc\Database_Management_System\1 Submit (1)\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.FormContract.resources
+D:\DUc\Database_Management_System\1 Submit (1)\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.CusForContract.resources
+D:\DUc\Database_Management_System\1 Submit (1)\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.AddCarForm.resources
+D:\DUc\Database_Management_System\1 Submit (1)\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EditCarForm.resources
+D:\DUc\Database_Management_System\1 Submit (1)\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.AddPositionForm.resources
+D:\DUc\Database_Management_System\1 Submit (1)\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.AddStaffForm.resources
+D:\DUc\Database_Management_System\1 Submit (1)\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EditInforEmpForm.resources
+D:\DUc\Database_Management_System\1 Submit (1)\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EditPositionForm.resources
+D:\DUc\Database_Management_System\1 Submit (1)\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.RevenueForm.resources
+D:\DUc\Database_Management_System\1 Submit (1)\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.StaffForm.resources
+D:\DUc\Database_Management_System\1 Submit (1)\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.IncomeManagementForm.resources
+D:\DUc\Database_Management_System\1 Submit (1)\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.MainForm.resources
+D:\DUc\Database_Management_System\1 Submit (1)\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.PositionListForm.resources
+D:\DUc\Database_Management_System\1 Submit (1)\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.Properties.Resources.resources
+D:\DUc\Database_Management_System\1 Submit (1)\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.TextBoxDesign.resources
+D:\DUc\Database_Management_System\1 Submit (1)\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.SpendingManagementForm.resources
+D:\DUc\Database_Management_System\1 Submit (1)\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.StaffRankingsByQuantityForm.resources
+D:\DUc\Database_Management_System\1 Submit (1)\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.WarehouseForm.resources
+D:\DUc\Database_Management_System\1 Submit (1)\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.SingleDetailForm.resources
+D:\DUc\Database_Management_System\1 Submit (1)\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.csproj.GenerateResource.cache
+D:\DUc\Database_Management_System\1 Submit (1)\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.csproj.CoreCompileInputs.cache
+D:\DUc\Database_Management_System\1 Submit (1)\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.csproj.CopyComplete
+D:\DUc\Database_Management_System\1 Submit (1)\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.exe
+D:\DUc\Database_Management_System\1 Submit (1)\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.pdb
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.FormBaoDuongFirst.resources
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.LoginForm.resources
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.RegisterForm.resources
+C:\Users\Fox\Documents\Zalo Received Files\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\bin\Debug\QuanLyShowRoomOto.exe.config
+C:\Users\Fox\Documents\Zalo Received Files\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\bin\Debug\QuanLyShowRoomOto.exe
+C:\Users\Fox\Documents\Zalo Received Files\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\bin\Debug\QuanLyShowRoomOto.pdb
+C:\Users\Fox\Documents\Zalo Received Files\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Fox\Documents\Zalo Received Files\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.csproj.AssemblyReference.cache
+C:\Users\Fox\Documents\Zalo Received Files\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.FormAddBaoDuong.resources
+C:\Users\Fox\Documents\Zalo Received Files\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.FormBaoDuongFirst.resources
+C:\Users\Fox\Documents\Zalo Received Files\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.CustomerForm.resources
+C:\Users\Fox\Documents\Zalo Received Files\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.FormAddCustomer.resources
+C:\Users\Fox\Documents\Zalo Received Files\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.HomeForm.resources
+C:\Users\Fox\Documents\Zalo Received Files\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.LoginForm.resources
+C:\Users\Fox\Documents\Zalo Received Files\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.Forms.FormCustomer.resources
+C:\Users\Fox\Documents\Zalo Received Files\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.Forms.FormUpdateDeleteCustomer.resources
+C:\Users\Fox\Documents\Zalo Received Files\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.Forms.PaymentForm.resources
+C:\Users\Fox\Documents\Zalo Received Files\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.AddOrderForm.resources
+C:\Users\Fox\Documents\Zalo Received Files\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EditOrderForm.resources
+C:\Users\Fox\Documents\Zalo Received Files\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.AddSingleDetailForm.resources
+C:\Users\Fox\Documents\Zalo Received Files\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EditSingleDetailForm.resources
+C:\Users\Fox\Documents\Zalo Received Files\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.ImportWarehouseForm.resources
+C:\Users\Fox\Documents\Zalo Received Files\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.CarSoldForm.resources
+C:\Users\Fox\Documents\Zalo Received Files\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EmployeeLeaveForm.resources
+C:\Users\Fox\Documents\Zalo Received Files\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.FormAddConTract.resources
+C:\Users\Fox\Documents\Zalo Received Files\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.FormAddPayContract.resources
+C:\Users\Fox\Documents\Zalo Received Files\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.FormContract.resources
+C:\Users\Fox\Documents\Zalo Received Files\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.CusForContract.resources
+C:\Users\Fox\Documents\Zalo Received Files\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.AddCarForm.resources
+C:\Users\Fox\Documents\Zalo Received Files\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EditCarForm.resources
+C:\Users\Fox\Documents\Zalo Received Files\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.AddPositionForm.resources
+C:\Users\Fox\Documents\Zalo Received Files\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.AddStaffForm.resources
+C:\Users\Fox\Documents\Zalo Received Files\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EditInforEmpForm.resources
+C:\Users\Fox\Documents\Zalo Received Files\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EditPositionForm.resources
+C:\Users\Fox\Documents\Zalo Received Files\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.RevenueForm.resources
+C:\Users\Fox\Documents\Zalo Received Files\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.StaffForm.resources
+C:\Users\Fox\Documents\Zalo Received Files\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.IncomeManagementForm.resources
+C:\Users\Fox\Documents\Zalo Received Files\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.MainForm.resources
+C:\Users\Fox\Documents\Zalo Received Files\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.PositionListForm.resources
+C:\Users\Fox\Documents\Zalo Received Files\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.Properties.Resources.resources
+C:\Users\Fox\Documents\Zalo Received Files\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.TextBoxDesign.resources
+C:\Users\Fox\Documents\Zalo Received Files\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.SpendingManagementForm.resources
+C:\Users\Fox\Documents\Zalo Received Files\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.StaffRankingsByQuantityForm.resources
+C:\Users\Fox\Documents\Zalo Received Files\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.WarehouseForm.resources
+C:\Users\Fox\Documents\Zalo Received Files\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.SingleDetailForm.resources
+C:\Users\Fox\Documents\Zalo Received Files\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.RegisterForm.resources
+C:\Users\Fox\Documents\Zalo Received Files\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.csproj.GenerateResource.cache
+C:\Users\Fox\Documents\Zalo Received Files\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.csproj.CoreCompileInputs.cache
+C:\Users\Fox\Documents\Zalo Received Files\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.csproj.CopyComplete
+C:\Users\Fox\Documents\Zalo Received Files\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.exe
+C:\Users\Fox\Documents\Zalo Received Files\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.pdb
+C:\Users\fpt\Desktop\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\bin\Debug\QuanLyShowRoomOto.exe.config
+C:\Users\fpt\Desktop\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\bin\Debug\QuanLyShowRoomOto.exe
+C:\Users\fpt\Desktop\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\bin\Debug\QuanLyShowRoomOto.pdb
+C:\Users\fpt\Desktop\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\fpt\Desktop\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.csproj.AssemblyReference.cache
+C:\Users\fpt\Desktop\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.FormAddBaoDuong.resources
+C:\Users\fpt\Desktop\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.FormBaoDuongFirst.resources
+C:\Users\fpt\Desktop\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.CustomerForm.resources
+C:\Users\fpt\Desktop\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.FormAddCustomer.resources
+C:\Users\fpt\Desktop\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.HomeForm.resources
+C:\Users\fpt\Desktop\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.LoginForm.resources
+C:\Users\fpt\Desktop\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.Forms.FormCustomer.resources
+C:\Users\fpt\Desktop\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.Forms.FormUpdateDeleteCustomer.resources
+C:\Users\fpt\Desktop\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.Forms.PaymentForm.resources
+C:\Users\fpt\Desktop\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.AddOrderForm.resources
+C:\Users\fpt\Desktop\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EditOrderForm.resources
+C:\Users\fpt\Desktop\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.AddSingleDetailForm.resources
+C:\Users\fpt\Desktop\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EditSingleDetailForm.resources
+C:\Users\fpt\Desktop\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.ImportWarehouseForm.resources
+C:\Users\fpt\Desktop\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.CarSoldForm.resources
+C:\Users\fpt\Desktop\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EmployeeLeaveForm.resources
+C:\Users\fpt\Desktop\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.FormAddConTract.resources
+C:\Users\fpt\Desktop\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.FormAddPayContract.resources
+C:\Users\fpt\Desktop\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.FormContract.resources
+C:\Users\fpt\Desktop\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.CusForContract.resources
+C:\Users\fpt\Desktop\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.AddCarForm.resources
+C:\Users\fpt\Desktop\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EditCarForm.resources
+C:\Users\fpt\Desktop\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.AddPositionForm.resources
+C:\Users\fpt\Desktop\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.AddStaffForm.resources
+C:\Users\fpt\Desktop\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EditInforEmpForm.resources
+C:\Users\fpt\Desktop\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EditPositionForm.resources
+C:\Users\fpt\Desktop\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.RevenueForm.resources
+C:\Users\fpt\Desktop\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.StaffForm.resources
+C:\Users\fpt\Desktop\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.IncomeManagementForm.resources
+C:\Users\fpt\Desktop\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.MainForm.resources
+C:\Users\fpt\Desktop\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.PositionListForm.resources
+C:\Users\fpt\Desktop\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.Properties.Resources.resources
+C:\Users\fpt\Desktop\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.TextBoxDesign.resources
+C:\Users\fpt\Desktop\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.SpendingManagementForm.resources
+C:\Users\fpt\Desktop\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.StaffRankingsByQuantityForm.resources
+C:\Users\fpt\Desktop\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.WarehouseForm.resources
+C:\Users\fpt\Desktop\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.SingleDetailForm.resources
+C:\Users\fpt\Desktop\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.RegisterForm.resources
+C:\Users\fpt\Desktop\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.csproj.GenerateResource.cache
+C:\Users\fpt\Desktop\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.csproj.CoreCompileInputs.cache
+C:\Users\fpt\Desktop\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.csproj.CopyComplete
+C:\Users\fpt\Desktop\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.exe
+C:\Users\fpt\Desktop\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.pdb
+D:\DUc\Database_Management_System\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\bin\Debug\QuanLyShowRoomOto.exe.config
+D:\DUc\Database_Management_System\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\bin\Debug\QuanLyShowRoomOto.exe
+D:\DUc\Database_Management_System\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\bin\Debug\QuanLyShowRoomOto.pdb
+D:\DUc\Database_Management_System\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\bin\Debug\FontAwesome.Sharp.dll
+D:\DUc\Database_Management_System\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.csproj.AssemblyReference.cache
+D:\DUc\Database_Management_System\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.FormAddBaoDuong.resources
+D:\DUc\Database_Management_System\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.FormBaoDuongFirst.resources
+D:\DUc\Database_Management_System\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.CustomerForm.resources
+D:\DUc\Database_Management_System\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.FormAddCustomer.resources
+D:\DUc\Database_Management_System\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.HomeForm.resources
+D:\DUc\Database_Management_System\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.LoginForm.resources
+D:\DUc\Database_Management_System\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.Forms.FormCustomer.resources
+D:\DUc\Database_Management_System\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.Forms.FormUpdateDeleteCustomer.resources
+D:\DUc\Database_Management_System\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.Forms.PaymentForm.resources
+D:\DUc\Database_Management_System\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.AddOrderForm.resources
+D:\DUc\Database_Management_System\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EditOrderForm.resources
+D:\DUc\Database_Management_System\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.AddSingleDetailForm.resources
+D:\DUc\Database_Management_System\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EditSingleDetailForm.resources
+D:\DUc\Database_Management_System\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.ImportWarehouseForm.resources
+D:\DUc\Database_Management_System\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.CarSoldForm.resources
+D:\DUc\Database_Management_System\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EmployeeLeaveForm.resources
+D:\DUc\Database_Management_System\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.FormAddConTract.resources
+D:\DUc\Database_Management_System\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.FormContract.resources
+D:\DUc\Database_Management_System\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.CusForContract.resources
+D:\DUc\Database_Management_System\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.AddCarForm.resources
+D:\DUc\Database_Management_System\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EditCarForm.resources
+D:\DUc\Database_Management_System\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.AddPositionForm.resources
+D:\DUc\Database_Management_System\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.AddStaffForm.resources
+D:\DUc\Database_Management_System\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EditInforEmpForm.resources
+D:\DUc\Database_Management_System\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EditPositionForm.resources
+D:\DUc\Database_Management_System\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.RevenueForm.resources
+D:\DUc\Database_Management_System\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.StaffForm.resources
+D:\DUc\Database_Management_System\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.IncomeManagementForm.resources
+D:\DUc\Database_Management_System\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.MainForm.resources
+D:\DUc\Database_Management_System\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.PositionListForm.resources
+D:\DUc\Database_Management_System\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.Properties.Resources.resources
+D:\DUc\Database_Management_System\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.TextBoxDesign.resources
+D:\DUc\Database_Management_System\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.SpendingManagementForm.resources
+D:\DUc\Database_Management_System\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.StaffRankingsByQuantityForm.resources
+D:\DUc\Database_Management_System\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.WarehouseForm.resources
+D:\DUc\Database_Management_System\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.SingleDetailForm.resources
+D:\DUc\Database_Management_System\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.RegisterForm.resources
+D:\DUc\Database_Management_System\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.csproj.GenerateResource.cache
+D:\DUc\Database_Management_System\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.csproj.CoreCompileInputs.cache
+D:\DUc\Database_Management_System\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.csproj.CopyComplete
+D:\DUc\Database_Management_System\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.exe
+D:\DUc\Database_Management_System\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.pdb
+G:\Quan Tri co so du lieu\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\bin\Debug\QuanLyShowRoomOto.exe.config
+G:\Quan Tri co so du lieu\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\bin\Debug\QuanLyShowRoomOto.exe
+G:\Quan Tri co so du lieu\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\bin\Debug\QuanLyShowRoomOto.pdb
+G:\Quan Tri co so du lieu\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\bin\Debug\FontAwesome.Sharp.dll
+G:\Quan Tri co so du lieu\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.csproj.AssemblyReference.cache
+G:\Quan Tri co so du lieu\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.FormAddBaoDuong.resources
+G:\Quan Tri co so du lieu\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.FormBaoDuongFirst.resources
+G:\Quan Tri co so du lieu\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.CustomerForm.resources
+G:\Quan Tri co so du lieu\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.FormAddCustomer.resources
+G:\Quan Tri co so du lieu\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.HomeForm.resources
+G:\Quan Tri co so du lieu\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.LoginForm.resources
+G:\Quan Tri co so du lieu\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.Forms.FormCustomer.resources
+G:\Quan Tri co so du lieu\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.Forms.FormUpdateDeleteCustomer.resources
+G:\Quan Tri co so du lieu\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.Forms.PaymentForm.resources
+G:\Quan Tri co so du lieu\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.AddOrderForm.resources
+G:\Quan Tri co so du lieu\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EditOrderForm.resources
+G:\Quan Tri co so du lieu\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.AddSingleDetailForm.resources
+G:\Quan Tri co so du lieu\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EditSingleDetailForm.resources
+G:\Quan Tri co so du lieu\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.ImportWarehouseForm.resources
+G:\Quan Tri co so du lieu\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.CarSoldForm.resources
+G:\Quan Tri co so du lieu\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EmployeeLeaveForm.resources
+G:\Quan Tri co so du lieu\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.FormAddConTract.resources
+G:\Quan Tri co so du lieu\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.FormContract.resources
+G:\Quan Tri co so du lieu\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.CusForContract.resources
+G:\Quan Tri co so du lieu\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.AddCarForm.resources
+G:\Quan Tri co so du lieu\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EditCarForm.resources
+G:\Quan Tri co so du lieu\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.AddPositionForm.resources
+G:\Quan Tri co so du lieu\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.AddStaffForm.resources
+G:\Quan Tri co so du lieu\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EditInforEmpForm.resources
+G:\Quan Tri co so du lieu\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EditPositionForm.resources
+G:\Quan Tri co so du lieu\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.RevenueForm.resources
+G:\Quan Tri co so du lieu\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.StaffForm.resources
+G:\Quan Tri co so du lieu\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.IncomeManagementForm.resources
+G:\Quan Tri co so du lieu\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.MainForm.resources
+G:\Quan Tri co so du lieu\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.PositionListForm.resources
+G:\Quan Tri co so du lieu\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.Properties.Resources.resources
+G:\Quan Tri co so du lieu\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.TextBoxDesign.resources
+G:\Quan Tri co so du lieu\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.SpendingManagementForm.resources
+G:\Quan Tri co so du lieu\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.StaffRankingsByQuantityForm.resources
+G:\Quan Tri co so du lieu\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.WarehouseForm.resources
+G:\Quan Tri co so du lieu\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.SingleDetailForm.resources
+G:\Quan Tri co so du lieu\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.RegisterForm.resources
+G:\Quan Tri co so du lieu\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.csproj.GenerateResource.cache
+G:\Quan Tri co so du lieu\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.csproj.CoreCompileInputs.cache
+G:\Quan Tri co so du lieu\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.csproj.CopyComplete
+G:\Quan Tri co so du lieu\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.exe
+G:\Quan Tri co so du lieu\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.pdb
+C:\Users\fpt\Desktop\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\bin\Debug\QuanLyShowRoomOto.exe.config
+C:\Users\fpt\Desktop\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\bin\Debug\QuanLyShowRoomOto.exe
+C:\Users\fpt\Desktop\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\bin\Debug\QuanLyShowRoomOto.pdb
+C:\Users\fpt\Desktop\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\fpt\Desktop\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.csproj.AssemblyReference.cache
+C:\Users\fpt\Desktop\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.FormAddBaoDuong.resources
+C:\Users\fpt\Desktop\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.FormBaoDuongFirst.resources
+C:\Users\fpt\Desktop\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.CustomerForm.resources
+C:\Users\fpt\Desktop\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.FormAddCustomer.resources
+C:\Users\fpt\Desktop\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.HomeForm.resources
+C:\Users\fpt\Desktop\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.LoginForm.resources
+C:\Users\fpt\Desktop\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.Forms.FormCustomer.resources
+C:\Users\fpt\Desktop\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.Forms.FormUpdateDeleteCustomer.resources
+C:\Users\fpt\Desktop\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.Forms.PaymentForm.resources
+C:\Users\fpt\Desktop\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.AddOrderForm.resources
+C:\Users\fpt\Desktop\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EditOrderForm.resources
+C:\Users\fpt\Desktop\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.AddSingleDetailForm.resources
+C:\Users\fpt\Desktop\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EditSingleDetailForm.resources
+C:\Users\fpt\Desktop\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.ImportWarehouseForm.resources
+C:\Users\fpt\Desktop\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.CarSoldForm.resources
+C:\Users\fpt\Desktop\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EmployeeLeaveForm.resources
+C:\Users\fpt\Desktop\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.FormAddConTract.resources
+C:\Users\fpt\Desktop\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.FormContract.resources
+C:\Users\fpt\Desktop\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.CusForContract.resources
+C:\Users\fpt\Desktop\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.AddCarForm.resources
+C:\Users\fpt\Desktop\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EditCarForm.resources
+C:\Users\fpt\Desktop\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.AddPositionForm.resources
+C:\Users\fpt\Desktop\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.AddStaffForm.resources
+C:\Users\fpt\Desktop\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EditInforEmpForm.resources
+C:\Users\fpt\Desktop\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EditPositionForm.resources
+C:\Users\fpt\Desktop\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.RevenueForm.resources
+C:\Users\fpt\Desktop\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.StaffForm.resources
+C:\Users\fpt\Desktop\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.IncomeManagementForm.resources
+C:\Users\fpt\Desktop\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.MainForm.resources
+C:\Users\fpt\Desktop\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.PositionListForm.resources
+C:\Users\fpt\Desktop\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.Properties.Resources.resources
+C:\Users\fpt\Desktop\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.TextBoxDesign.resources
+C:\Users\fpt\Desktop\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.SpendingManagementForm.resources
+C:\Users\fpt\Desktop\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.StaffRankingsByQuantityForm.resources
+C:\Users\fpt\Desktop\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.WarehouseForm.resources
+C:\Users\fpt\Desktop\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.SingleDetailForm.resources
+C:\Users\fpt\Desktop\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.RegisterForm.resources
+C:\Users\fpt\Desktop\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.csproj.GenerateResource.cache
+C:\Users\fpt\Desktop\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.csproj.CoreCompileInputs.cache
+C:\Users\fpt\Desktop\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.csproj.CopyComplete
+C:\Users\fpt\Desktop\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.exe
+C:\Users\fpt\Desktop\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.pdb
+C:\Users\fpt\Desktop\Submit\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\bin\Debug\QuanLyShowRoomOto.exe.config
+C:\Users\fpt\Desktop\Submit\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\bin\Debug\QuanLyShowRoomOto.exe
+C:\Users\fpt\Desktop\Submit\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\bin\Debug\QuanLyShowRoomOto.pdb
+C:\Users\fpt\Desktop\Submit\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\fpt\Desktop\Submit\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.csproj.AssemblyReference.cache
+C:\Users\fpt\Desktop\Submit\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.FormAddBaoDuong.resources
+C:\Users\fpt\Desktop\Submit\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.FormBaoDuongFirst.resources
+C:\Users\fpt\Desktop\Submit\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.CustomerForm.resources
+C:\Users\fpt\Desktop\Submit\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.FormAddCustomer.resources
+C:\Users\fpt\Desktop\Submit\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.HomeForm.resources
+C:\Users\fpt\Desktop\Submit\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.LoginForm.resources
+C:\Users\fpt\Desktop\Submit\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.Forms.FormCustomer.resources
+C:\Users\fpt\Desktop\Submit\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.Forms.FormUpdateDeleteCustomer.resources
+C:\Users\fpt\Desktop\Submit\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.Forms.PaymentForm.resources
+C:\Users\fpt\Desktop\Submit\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.AddOrderForm.resources
+C:\Users\fpt\Desktop\Submit\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EditOrderForm.resources
+C:\Users\fpt\Desktop\Submit\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.AddSingleDetailForm.resources
+C:\Users\fpt\Desktop\Submit\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EditSingleDetailForm.resources
+C:\Users\fpt\Desktop\Submit\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.ImportWarehouseForm.resources
+C:\Users\fpt\Desktop\Submit\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.CarSoldForm.resources
+C:\Users\fpt\Desktop\Submit\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EmployeeLeaveForm.resources
+C:\Users\fpt\Desktop\Submit\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.FormAddConTract.resources
+C:\Users\fpt\Desktop\Submit\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.FormContract.resources
+C:\Users\fpt\Desktop\Submit\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.CusForContract.resources
+C:\Users\fpt\Desktop\Submit\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.AddCarForm.resources
+C:\Users\fpt\Desktop\Submit\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EditCarForm.resources
+C:\Users\fpt\Desktop\Submit\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.AddPositionForm.resources
+C:\Users\fpt\Desktop\Submit\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.AddStaffForm.resources
+C:\Users\fpt\Desktop\Submit\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EditInforEmpForm.resources
+C:\Users\fpt\Desktop\Submit\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EditPositionForm.resources
+C:\Users\fpt\Desktop\Submit\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.RevenueForm.resources
+C:\Users\fpt\Desktop\Submit\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.StaffForm.resources
+C:\Users\fpt\Desktop\Submit\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.IncomeManagementForm.resources
+C:\Users\fpt\Desktop\Submit\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.MainForm.resources
+C:\Users\fpt\Desktop\Submit\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.PositionListForm.resources
+C:\Users\fpt\Desktop\Submit\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.Properties.Resources.resources
+C:\Users\fpt\Desktop\Submit\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.TextBoxDesign.resources
+C:\Users\fpt\Desktop\Submit\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.SpendingManagementForm.resources
+C:\Users\fpt\Desktop\Submit\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.StaffRankingsByQuantityForm.resources
+C:\Users\fpt\Desktop\Submit\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.WarehouseForm.resources
+C:\Users\fpt\Desktop\Submit\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.SingleDetailForm.resources
+C:\Users\fpt\Desktop\Submit\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.RegisterForm.resources
+C:\Users\fpt\Desktop\Submit\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.csproj.GenerateResource.cache
+C:\Users\fpt\Desktop\Submit\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.csproj.CoreCompileInputs.cache
+C:\Users\fpt\Desktop\Submit\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.csproj.CopyComplete
+C:\Users\fpt\Desktop\Submit\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.exe
+C:\Users\fpt\Desktop\Submit\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.pdb
+C:\Users\Fox\Documents\Zalo Received Files\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\bin\Debug\QuanLyShowRoomOto.exe.config
+C:\Users\Fox\Documents\Zalo Received Files\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\bin\Debug\QuanLyShowRoomOto.exe
+C:\Users\Fox\Documents\Zalo Received Files\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\bin\Debug\QuanLyShowRoomOto.pdb
+C:\Users\Fox\Documents\Zalo Received Files\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Fox\Documents\Zalo Received Files\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.csproj.AssemblyReference.cache
+C:\Users\Fox\Documents\Zalo Received Files\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.FormAddBaoDuong.resources
+C:\Users\Fox\Documents\Zalo Received Files\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.FormBaoDuongFirst.resources
+C:\Users\Fox\Documents\Zalo Received Files\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.FormAddCustomer.resources
+C:\Users\Fox\Documents\Zalo Received Files\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.HomeForm.resources
+C:\Users\Fox\Documents\Zalo Received Files\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.LoginForm.resources
+C:\Users\Fox\Documents\Zalo Received Files\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.Forms.FormCustomer.resources
+C:\Users\Fox\Documents\Zalo Received Files\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.Forms.FormUpdateDeleteCustomer.resources
+C:\Users\Fox\Documents\Zalo Received Files\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.Forms.PaymentForm.resources
+C:\Users\Fox\Documents\Zalo Received Files\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.AddOrderForm.resources
+C:\Users\Fox\Documents\Zalo Received Files\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EditOrderForm.resources
+C:\Users\Fox\Documents\Zalo Received Files\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.AddSingleDetailForm.resources
+C:\Users\Fox\Documents\Zalo Received Files\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EditSingleDetailForm.resources
+C:\Users\Fox\Documents\Zalo Received Files\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.ImportWarehouseForm.resources
+C:\Users\Fox\Documents\Zalo Received Files\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.CarSoldForm.resources
+C:\Users\Fox\Documents\Zalo Received Files\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EmployeeLeaveForm.resources
+C:\Users\Fox\Documents\Zalo Received Files\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.FormAddConTract.resources
+C:\Users\Fox\Documents\Zalo Received Files\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.FormContract.resources
+C:\Users\Fox\Documents\Zalo Received Files\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.CusForContract.resources
+C:\Users\Fox\Documents\Zalo Received Files\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.AddCarForm.resources
+C:\Users\Fox\Documents\Zalo Received Files\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EditCarForm.resources
+C:\Users\Fox\Documents\Zalo Received Files\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.AddStaffForm.resources
+C:\Users\Fox\Documents\Zalo Received Files\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EditInforEmpForm.resources
+C:\Users\Fox\Documents\Zalo Received Files\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.RevenueForm.resources
+C:\Users\Fox\Documents\Zalo Received Files\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.StaffForm.resources
+C:\Users\Fox\Documents\Zalo Received Files\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.IncomeManagementForm.resources
+C:\Users\Fox\Documents\Zalo Received Files\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.MainForm.resources
+C:\Users\Fox\Documents\Zalo Received Files\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.PositionListForm.resources
+C:\Users\Fox\Documents\Zalo Received Files\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.Properties.Resources.resources
+C:\Users\Fox\Documents\Zalo Received Files\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.TextBoxDesign.resources
+C:\Users\Fox\Documents\Zalo Received Files\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.SpendingManagementForm.resources
+C:\Users\Fox\Documents\Zalo Received Files\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.StaffRankingsByQuantityForm.resources
+C:\Users\Fox\Documents\Zalo Received Files\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.WarehouseForm.resources
+C:\Users\Fox\Documents\Zalo Received Files\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.SingleDetailForm.resources
+C:\Users\Fox\Documents\Zalo Received Files\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.RegisterForm.resources
+C:\Users\Fox\Documents\Zalo Received Files\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.csproj.GenerateResource.cache
+C:\Users\Fox\Documents\Zalo Received Files\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.csproj.CoreCompileInputs.cache
+C:\Users\Fox\Documents\Zalo Received Files\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.csproj.CopyComplete
+C:\Users\Fox\Documents\Zalo Received Files\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.exe
+C:\Users\Fox\Documents\Zalo Received Files\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.pdb
+C:\Users\fpt\Desktop\Submit (1) (1)\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\bin\Debug\QuanLyShowRoomOto.exe.config
+C:\Users\fpt\Desktop\Submit (1) (1)\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\bin\Debug\QuanLyShowRoomOto.exe
+C:\Users\fpt\Desktop\Submit (1) (1)\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\bin\Debug\QuanLyShowRoomOto.pdb
+C:\Users\fpt\Desktop\Submit (1) (1)\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\fpt\Desktop\Submit (1) (1)\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.csproj.AssemblyReference.cache
+C:\Users\fpt\Desktop\Submit (1) (1)\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.FormAddBaoDuong.resources
+C:\Users\fpt\Desktop\Submit (1) (1)\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.FormBaoDuongFirst.resources
+C:\Users\fpt\Desktop\Submit (1) (1)\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.FormAddCustomer.resources
+C:\Users\fpt\Desktop\Submit (1) (1)\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.HomeForm.resources
+C:\Users\fpt\Desktop\Submit (1) (1)\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.LoginForm.resources
+C:\Users\fpt\Desktop\Submit (1) (1)\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.Forms.FormCustomer.resources
+C:\Users\fpt\Desktop\Submit (1) (1)\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.Forms.FormUpdateDeleteCustomer.resources
+C:\Users\fpt\Desktop\Submit (1) (1)\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.Forms.PaymentForm.resources
+C:\Users\fpt\Desktop\Submit (1) (1)\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.AddOrderForm.resources
+C:\Users\fpt\Desktop\Submit (1) (1)\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EditOrderForm.resources
+C:\Users\fpt\Desktop\Submit (1) (1)\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.AddSingleDetailForm.resources
+C:\Users\fpt\Desktop\Submit (1) (1)\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EditSingleDetailForm.resources
+C:\Users\fpt\Desktop\Submit (1) (1)\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.ImportWarehouseForm.resources
+C:\Users\fpt\Desktop\Submit (1) (1)\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.CarSoldForm.resources
+C:\Users\fpt\Desktop\Submit (1) (1)\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EmployeeLeaveForm.resources
+C:\Users\fpt\Desktop\Submit (1) (1)\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.FormAddConTract.resources
+C:\Users\fpt\Desktop\Submit (1) (1)\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.FormContract.resources
+C:\Users\fpt\Desktop\Submit (1) (1)\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.CusForContract.resources
+C:\Users\fpt\Desktop\Submit (1) (1)\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.AddCarForm.resources
+C:\Users\fpt\Desktop\Submit (1) (1)\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EditCarForm.resources
+C:\Users\fpt\Desktop\Submit (1) (1)\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.AddStaffForm.resources
+C:\Users\fpt\Desktop\Submit (1) (1)\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EditInforEmpForm.resources
+C:\Users\fpt\Desktop\Submit (1) (1)\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.RevenueForm.resources
+C:\Users\fpt\Desktop\Submit (1) (1)\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.StaffForm.resources
+C:\Users\fpt\Desktop\Submit (1) (1)\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.IncomeManagementForm.resources
+C:\Users\fpt\Desktop\Submit (1) (1)\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.MainForm.resources
+C:\Users\fpt\Desktop\Submit (1) (1)\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.PositionListForm.resources
+C:\Users\fpt\Desktop\Submit (1) (1)\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.Properties.Resources.resources
+C:\Users\fpt\Desktop\Submit (1) (1)\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.TextBoxDesign.resources
+C:\Users\fpt\Desktop\Submit (1) (1)\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.SpendingManagementForm.resources
+C:\Users\fpt\Desktop\Submit (1) (1)\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.StaffRankingsByQuantityForm.resources
+C:\Users\fpt\Desktop\Submit (1) (1)\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.WarehouseForm.resources
+C:\Users\fpt\Desktop\Submit (1) (1)\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.SingleDetailForm.resources
+C:\Users\fpt\Desktop\Submit (1) (1)\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.RegisterForm.resources
+C:\Users\fpt\Desktop\Submit (1) (1)\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.csproj.GenerateResource.cache
+C:\Users\fpt\Desktop\Submit (1) (1)\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.csproj.CoreCompileInputs.cache
+C:\Users\fpt\Desktop\Submit (1) (1)\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.csproj.CopyComplete
+C:\Users\fpt\Desktop\Submit (1) (1)\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.exe
+C:\Users\fpt\Desktop\Submit (1) (1)\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.pdb
+C:\Users\fpt\Desktop\Submit\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\bin\Debug\QuanLyShowRoomOto.exe.config
+C:\Users\fpt\Desktop\Submit\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\bin\Debug\QuanLyShowRoomOto.exe
+C:\Users\fpt\Desktop\Submit\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\bin\Debug\QuanLyShowRoomOto.pdb
+C:\Users\fpt\Desktop\Submit\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\fpt\Desktop\Submit\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.csproj.AssemblyReference.cache
+C:\Users\fpt\Desktop\Submit\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.FormAddBaoDuong.resources
+C:\Users\fpt\Desktop\Submit\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.FormBaoDuongFirst.resources
+C:\Users\fpt\Desktop\Submit\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.FormAddCustomer.resources
+C:\Users\fpt\Desktop\Submit\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.HomeForm.resources
+C:\Users\fpt\Desktop\Submit\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.LoginForm.resources
+C:\Users\fpt\Desktop\Submit\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.Forms.FormCustomer.resources
+C:\Users\fpt\Desktop\Submit\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.Forms.FormUpdateDeleteCustomer.resources
+C:\Users\fpt\Desktop\Submit\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.Forms.PaymentForm.resources
+C:\Users\fpt\Desktop\Submit\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.AddOrderForm.resources
+C:\Users\fpt\Desktop\Submit\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EditOrderForm.resources
+C:\Users\fpt\Desktop\Submit\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.AddSingleDetailForm.resources
+C:\Users\fpt\Desktop\Submit\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EditSingleDetailForm.resources
+C:\Users\fpt\Desktop\Submit\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.ImportWarehouseForm.resources
+C:\Users\fpt\Desktop\Submit\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.CarSoldForm.resources
+C:\Users\fpt\Desktop\Submit\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EmployeeLeaveForm.resources
+C:\Users\fpt\Desktop\Submit\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.FormAddConTract.resources
+C:\Users\fpt\Desktop\Submit\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.FormContract.resources
+C:\Users\fpt\Desktop\Submit\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.CusForContract.resources
+C:\Users\fpt\Desktop\Submit\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.AddCarForm.resources
+C:\Users\fpt\Desktop\Submit\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EditCarForm.resources
+C:\Users\fpt\Desktop\Submit\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.AddStaffForm.resources
+C:\Users\fpt\Desktop\Submit\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EditInforEmpForm.resources
+C:\Users\fpt\Desktop\Submit\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.RevenueForm.resources
+C:\Users\fpt\Desktop\Submit\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.StaffForm.resources
+C:\Users\fpt\Desktop\Submit\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.IncomeManagementForm.resources
+C:\Users\fpt\Desktop\Submit\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.MainForm.resources
+C:\Users\fpt\Desktop\Submit\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.PositionListForm.resources
+C:\Users\fpt\Desktop\Submit\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.Properties.Resources.resources
+C:\Users\fpt\Desktop\Submit\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.TextBoxDesign.resources
+C:\Users\fpt\Desktop\Submit\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.SpendingManagementForm.resources
+C:\Users\fpt\Desktop\Submit\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.StaffRankingsByQuantityForm.resources
+C:\Users\fpt\Desktop\Submit\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.WarehouseForm.resources
+C:\Users\fpt\Desktop\Submit\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.SingleDetailForm.resources
+C:\Users\fpt\Desktop\Submit\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.RegisterForm.resources
+C:\Users\fpt\Desktop\Submit\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.csproj.GenerateResource.cache
+C:\Users\fpt\Desktop\Submit\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.csproj.CoreCompileInputs.cache
+C:\Users\fpt\Desktop\Submit\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.csproj.CopyComplete
+C:\Users\fpt\Desktop\Submit\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.exe
+C:\Users\fpt\Desktop\Submit\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.pdb
+C:\Users\fpt\Desktop\Submit\Submit (1)\Submit (1)\Submit\1 Submit\1 Submit\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.ResetPasswordForm.resources
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\Cuối kỳ\QuanLyShowRoomOto\QuanLyShowRoomOto\bin\Debug\QuanLyShowRoomOto.exe.config
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\Cuối kỳ\QuanLyShowRoomOto\QuanLyShowRoomOto\bin\Debug\QuanLyShowRoomOto.exe
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\Cuối kỳ\QuanLyShowRoomOto\QuanLyShowRoomOto\bin\Debug\QuanLyShowRoomOto.pdb
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\Cuối kỳ\QuanLyShowRoomOto\QuanLyShowRoomOto\bin\Debug\FontAwesome.Sharp.dll
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\Cuối kỳ\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.csproj.AssemblyReference.cache
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\Cuối kỳ\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.FormAddBaoDuong.resources
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\Cuối kỳ\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.FormBaoDuongFirst.resources
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\Cuối kỳ\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.FormAddCustomer.resources
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\Cuối kỳ\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.HomeForm.resources
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\Cuối kỳ\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.LoginForm.resources
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\Cuối kỳ\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.Forms.FormCustomer.resources
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\Cuối kỳ\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.Forms.FormUpdateDeleteCustomer.resources
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\Cuối kỳ\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.Forms.PaymentForm.resources
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\Cuối kỳ\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.AddOrderForm.resources
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\Cuối kỳ\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EditOrderForm.resources
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\Cuối kỳ\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.AddSingleDetailForm.resources
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\Cuối kỳ\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EditSingleDetailForm.resources
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\Cuối kỳ\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.ImportWarehouseForm.resources
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\Cuối kỳ\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.CarSoldForm.resources
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\Cuối kỳ\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EmployeeLeaveForm.resources
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\Cuối kỳ\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.FormAddConTract.resources
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\Cuối kỳ\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.FormContract.resources
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\Cuối kỳ\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.CusForContract.resources
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\Cuối kỳ\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.AddCarForm.resources
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\Cuối kỳ\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EditCarForm.resources
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\Cuối kỳ\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.AddStaffForm.resources
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\Cuối kỳ\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.EditInforEmpForm.resources
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\Cuối kỳ\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.RevenueForm.resources
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\Cuối kỳ\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.StaffForm.resources
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\Cuối kỳ\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.IncomeManagementForm.resources
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\Cuối kỳ\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.MainForm.resources
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\Cuối kỳ\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.PositionListForm.resources
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\Cuối kỳ\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.Properties.Resources.resources
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\Cuối kỳ\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.TextBoxDesign.resources
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\Cuối kỳ\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.SpendingManagementForm.resources
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\Cuối kỳ\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.StaffRankingsByQuantityForm.resources
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\Cuối kỳ\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.WarehouseForm.resources
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\Cuối kỳ\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.SingleDetailForm.resources
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\Cuối kỳ\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.RegisterForm.resources
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\Cuối kỳ\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.ResetPasswordForm.resources
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\Cuối kỳ\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.csproj.GenerateResource.cache
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\Cuối kỳ\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.csproj.CoreCompileInputs.cache
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\Cuối kỳ\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.csproj.CopyComplete
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\Cuối kỳ\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.exe
+E:\spkt\HK4\Hệ quản trị cơ sở dữ liệu\Cuối kỳ\QuanLyShowRoomOto\QuanLyShowRoomOto\obj\Debug\QuanLyShowRoomOto.pdb
